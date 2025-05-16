@@ -11,7 +11,7 @@ public class Anubius extends JFrame {
     private final JTextField inputField;
     private final JButton sendButton, voiceToggleButton;
     private final ArrayList<String> messages = new ArrayList<>();
-    private final String OPENROUTER_API_KEY = "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";
+    private final String OPENROUTER_API_KEY = "YOUR-API-KEY";
     private boolean voiceEnabled = false;
     private final Voice voice;
 
