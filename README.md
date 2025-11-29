@@ -1,14 +1,10 @@
-Here’s a professional and clear GitHub repository description for your **AnubisGPT** chatbot project:
+## 📁 GitHub Repository Description for `Anubis_GPT`
 
----
-
-## 📁 GitHub Repository Description for `AnubisGPT`
-
-> 🎙️💬 **AnubisGPT** is a Java-based AI chatbot with a responsive Swing GUI, real-time voice interaction using FreeTTS, and OpenRouter API integration for intelligent responses.
+> 🎙️💬 **Anubis_GPT** is a Java-based AI chatbot with a responsive Swing GUI, real-time voice interaction using FreeTTS, and OpenRouter API integration for intelligent responses.
 
 ### 🔍 Overview
 
-AnubisGPT is a desktop chatbot application built in Java that combines AI-driven conversation with voice interaction. It features:
+Anubis_GPT is a desktop chatbot application built in Java that combines AI-driven conversation with voice interaction. It features:
 
 * 🧠 **AI responses** via the [OpenRouter API](https://openrouter.ai)
 * 🗣️ **Text-to-speech** voice output using FreeTTS
@@ -26,7 +22,7 @@ AnubisGPT is a desktop chatbot application built in Java that combines AI-driven
 
 ### 🧱 Tech Stack
 
-* **Language:** Java
+* **Language:** Java (100%)
 * **GUI:** Swing
 * **AI Integration:** OpenRouter API (Gemini model)
 * **Voice:** FreeTTS (Text-to-Speech)
@@ -40,19 +36,15 @@ AnubisGPT is a desktop chatbot application built in Java that combines AI-driven
 
 1. Clone the repo:
 
-   ```bash
-   git clone https://github.com/your-username/AnubisGPT.git
-   ```
+    ```bash
+    git clone https://github.com/Adil-Ijaz7/Anubis_GPT.git
+    ```
 2. Open in any Java IDE (e.g., IntelliJ, Eclipse)
 3. Add your OpenRouter API key:
 
-   ```java
-   private static final String OPENROUTER_API_KEY = "your_api_key_here";
-   ```
+    ```java
+    private static final String OPENROUTER_API_KEY = "your_api_key_here";
+    ```
 4. Run the `main()` method.
 
 ### 📄 License
-
-
----
-
