@@ -72,13 +72,7 @@ Then read it in code via `System.getenv("OPENROUTER_API_KEY")` with a fallback.
 ## Project Structure (example)
 ```
 src/
-├─ ui/
-│  ├─ ChatWindow.java
-│  └─ MessagePanel.java
-├─ service/
-│  ├─ OpenRouterClient.java
-│  └─ VoiceService.java
-└─ Main.java
+├─ Anubius.java
 ```
 
 ## Roadmap
