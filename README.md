@@ -1,4 +1,3 @@
-####markdown
 # Anubis_GPT
 
 A Java-based desktop AI chatbot featuring a modern Swing GUI, real-time text-to-speech via FreeTTS, and intelligent responses powered by the OpenRouter API.
@@ -102,4 +101,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenRouter](https://openrouter.ai) for API access to cutting-edge models
 - [FreeTTS](http://freetts.sourceforge.net/docs/index.php) for Java TTS
 - [Gson](https://github.com/google/gson) for JSON parsing
-####end
+####end](https://github.com/Adil-Ijaz7/Anubis_GPT)
