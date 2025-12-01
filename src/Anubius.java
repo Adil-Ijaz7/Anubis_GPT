@@ -184,7 +184,7 @@ public class Anubius extends JFrame {
         messages.add(userMsg);
 
         JsonObject body = new JsonObject();
-        body.addProperty("model", "google/gemini-2.0-flash-001");//models can be switched from here
+        body.addProperty("model", "qwen/qwen3-0.6b-04-28:free");//models can be switched from here
         //openai/gpt-4o-mini
         //google/gemini-2.0-flash-001 (273B)
         //qwen/qwen3-0.6b-04-28:free(2025 model)
