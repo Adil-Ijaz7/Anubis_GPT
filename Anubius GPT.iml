@@ -10,13 +10,22 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://$MODULE_DIR$/gson-2.13.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/en_us.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/cmu_us_kal.jar!/" />
@@ -25,7 +34,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/freetts.jar!/" />
@@ -34,7 +43,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/cmu_time_awb.jar!/" />
@@ -43,10 +52,19 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/sdk/client-sdk-1.43.0-javadoc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/gson-2.13.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jlayer-1.0.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
